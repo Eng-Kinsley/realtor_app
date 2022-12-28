@@ -7,9 +7,9 @@ This is a Real estate app built using React.js for the frontend, Next.js for sta
 * start editinng the index.js page.
 * Stop server form running by clicking ctrl + c on terminal
 * Install all necessary dependencies.
-*#^npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion - chakra ui
-*#^npm install axios - to make API requests
-*#^millify - to format large numbers into human readable format
-*#^nprogress - for progress loading bar
-*#^react-horizontal-scrolling-menu - use it for our gallery of images
-*#^react-icons - for our icons
+#^npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion - chakra ui
+#^npm install axios - to make API requests
+#^millify - to format large numbers into human readable format
+#^nprogress - for progress loading bar
+#^react-horizontal-scrolling-menu - use it for our gallery of images
+#^react-icons - for our icons
